@@ -2,6 +2,14 @@
 back/node_modules
 front/node_modules
 
+.idea/
+
+front/build/
+front/dist/
+front/public/assets/
+front/coverage
+front/.nyc_output
+
 # Log files
 logs
 *.log
